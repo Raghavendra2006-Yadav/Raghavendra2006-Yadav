@@ -53,8 +53,11 @@
 
 
 
-## 💡 Quote:
->  कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
-मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥
+# राधे राधे जय श्री कृष्णा 🙏
 
-You have the right to perform your duties, but not to the results of your actions. Focus on your work, not the outcome. 🚀🚀
+## 💡 Quote:
+> कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।  
+> मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥  
+>
+> You have the right to perform your duties, but not to the results of your actions.  
+> Focus on your work, not the outcome. 🚀🚀
