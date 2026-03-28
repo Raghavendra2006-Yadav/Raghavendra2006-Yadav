@@ -51,14 +51,10 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-<img src="https://github-profile-trophy.vercel.app/?username=Raghavendra2006-Yadav&theme=radical" />
 
-## 🔝 Top Contributed Repo:
-<img src="https://github-contributor-stats.vercel.app/api?username=Raghavendra2006-Yadav" />
-
-## 👀 Profile Visitors:
-<img src="https://visitcount.itsvg.in/api?id=Raghavendra2006-Yadav" />
 
 ## 💡 Quote:
-> Code. Build. Learn. Repeat. 🚀
+> Code.. कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
+मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥
+
+You have the right to perform your duties, but not to the results of your actions. Focus on your work, not the outcome. 🚀🚀
