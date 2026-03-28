@@ -52,13 +52,13 @@
 ---
 
 ## 🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=Raghavendra2006-Yadav&theme=radical)
+<img src="https://github-profile-trophy.vercel.app/?username=Raghavendra2006-Yadav&theme=radical" />
 
 ## 🔝 Top Contributed Repo:
-![repo](https://github-contributor-stats.vercel.app/api?username=Raghavendra2006-Yadav)
+<img src="https://github-contributor-stats.vercel.app/api?username=Raghavendra2006-Yadav" />
 
 ## 👀 Profile Visitors:
-![visitors](https://visitcount.itsvg.in/api?id=Raghavendra2006-Yadav)
+<img src="https://visitcount.itsvg.in/api?id=Raghavendra2006-Yadav" />
 
 ## 💡 Quote:
 > Code. Build. Learn. Repeat. 🚀
